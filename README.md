@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praduman Kumar</h1>
-<h3 align="center">A passionate Android and Windows app developer from India,<br> dedicated to crafting seamless, user-friendly, and high-performance applications</h3>
+<h3 align="center">A passionate Android and windows app developer from India</h3>
 
 - 🔭 I’m currently working on **Many android and windows Project**
 
@@ -15,28 +15,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
 <a href="https://dev.to/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
 <a href="https://twitter.com/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
 <a href="https://fb.com/https://share.google/vlz7o62h8pczzpq4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://share.google/vlz7o62h8pczzpq4x" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/accounts/login/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/accounts/login/?hl=en" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://medium.com/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
-<a href="https://discord.gg/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
 <a href="/https://x.com/i/flow/login?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://x.com/i/flow/login?lang=en-in" height="30" width="40" /></a>
 </p>
 
@@ -46,4 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkumar6299&show_icons=true&locale=en&layout=compact" alt="abhishekkumar6299" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkumar6299&show_icons=true&locale=en" alt="abhishekkumar6299" /></p>
-
