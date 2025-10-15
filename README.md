@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praduman Kumar</h1>
-<h3 align="center">A passionate Android and Windows app developer from India, dedicated to crafting seamless, user-friendly, and high-performance applications</h3>
+<h3 align="center">A passionate Android and Windows app developer from India,<br> dedicated to crafting seamless, user-friendly, and high-performance applications</h3>
 
 - 🔭 I’m currently working on **Many android and windows Project**
 
